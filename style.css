@@ -1,0 +1,44 @@
+body {
+    font-size: 14px;
+    color: black;
+    font-size: 12px;
+    background-color: teal;
+    font-family: Verdana, serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+h1 {ß
+    color: pink;
+    background-color: pink;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    text-decoration: line-through;
+    margin: 20px;
+    padding: 40px;
+    border-style: groove;
+    border-width: 10 px;
+}
+h2 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: pink;
+}
+
+a {
+    text-decoration: none;
+    margin: 20px;
+    padding: 40px;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+p {
+  letter-spacing: 0.5em;
+  word-spacing: 2em;
+  line-height: 1.5;
+  text-align: center;
+}
